@@ -714,13 +714,13 @@ $translations = array(
   'Auto Announcements'=>
   '自动通知',
   'Autorun Cycle (s)'=>
-  '自动运行周期',
+  '自动运行周期（秒）',
   'Leaderboard Limit'=>
   '排行榜显示数量限制',
   'Gameboard Cycle (s)'=>
-  '游戏面板更新周期',
+  '游戏面板更新周期（秒）',
   'Configuration Cycle (s)'=>
-  '配置更新周期',
+  '配置更新周期（秒）',
   'Game Schedule'=>
   '游戏时间表',
   'Game Start Year'=>
