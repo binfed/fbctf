@@ -1,4 +1,4 @@
-# FBCTF-Chinese-Version
+# FBCTF汉化版
 FBCTF 简中汉化
 
 # 使用说明
