@@ -738,9 +738,9 @@ $translations = array(
   'Optional LiveSync Auth Key'=>
   'LiveSync密钥',
   'Custom Organization'=>
-  '自定义组织',
+  '自定义比赛名称(主标题)',
   'Custom Byline'=>
-  '自定义比赛名称',
+  '自定义比赛名称(副标题)',
   'Reset Schedule'=>
   '重置时间表',
   ' Hours '=>
