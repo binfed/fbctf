@@ -778,7 +778,7 @@ $translations = array(
   'Import Attachments'=>
   '导入附件',
   'Export Attachments'=>
-  '导入附件',
+  '导出附件',
   'Integration'=>
   '社交',
 
