@@ -43,13 +43,13 @@ class IndexController extends Controller {
     if ($custom_org->getValue() === 'Facebook') {
       $welcome_msg =
         tr(
-          '欢迎来到Facebook CTF比赛.点击“开始”，您将进入正式的CTF挑战赛。 祝你好运。',
+          'Welcome to the Facebook Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.',
         );
     } else {
       $welcome_msg =
-        '欢迎来到'.
+        tr('Welcome to the ').
         $custom_org->getValue().
-        ' CTF比赛.点击“开始”，您将进入正式的CTF挑战赛。 祝你好运。';
+        tr(' Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.');
     }
     return
       <div class="fb-row-container full-height fb-scroll">

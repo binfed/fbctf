@@ -407,7 +407,7 @@ $translations = array(
   'type' =>
     '类型',
   'pts' =>
-    '分数',
+    '分数(pts)',
   'Level' =>
     '关卡',
   'level' =>
@@ -514,7 +514,7 @@ $translations = array(
   'Rank' =>
     '排名',
   'pts' =>
-    '分', //points
+    '分(pts)', //points
   'Your Rank' =>
     '您的排名',
   'Your Score' =>
@@ -836,6 +836,16 @@ $translations = array(
   '关闭',
   'Close'=>
   '关闭',
+  'Captured!'=>
+  '已夺取！',
+  'Level already captured!'=>
+  '关卡已夺取！',
+  'Free Hint'=>
+  '免费提示',
+  'Welcome to the '=>
+  '欢迎来到 ',
+  ' Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.'=>
+  ' CTF比赛.点击“开始”，您将进入正式的CTF挑战赛。 祝你好运。',
 
   //注册
   'Or register to use username and password here. Once you have registered, you will be logged in.'=>
