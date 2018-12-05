@@ -1,8 +1,25 @@
 # FBCTF汉化版
-FBCTF 简中汉化
+FBCTF 简中汉化，基于Facebook官方FBCTF平台源码（Ubuntu 16.04）进行汉化
+
+
+# 截图
+![](https://i.imgur.com/YNv6tcQ.png)
+
+![](https://i.imgur.com/kY8u3lG.png)
+
+![](https://i.imgur.com/sJdZXxr.png)
+
+![](https://i.imgur.com/Hhj3DLS.png)
+
+![](https://i.imgur.com/7pk3Gw6.png)
+
+![](https://i.imgur.com/snKJ2Bb.png)
+
+![](https://i.imgur.com/NEpdT3b.png)
+
 
 # 使用说明
-按照以下文件地址进行替换
+**按照以下**文件地址进行**替换**
 
 | 文件名 | 文件位置 | 
 | ------ | ------ |
@@ -13,11 +30,11 @@ FBCTF 简中汉化
 |Custombranding.php | /var/www/fbctf/src/xhp |
 | lang_zh-cn.php | /var/www/fbctf/src/language |
 
-其中`lang_zh-cn.php`为新增文件，使用简中时需要删除原有的`zh-tw`
+其中`lang_zh-cn.php`为新增文件，使用简中时需要删除原有的`lang_zh-tw.php`
 
 # 缓存更新
 
-替换完成后更新缓存【重新编译】
+替换完成后在`shell`中更新缓存【重新编译】
 ```shell
 rm /var/cache/hhvm/hhvm.hhbc
 hhvm-repo-mode enable "/var/www/fbctf"
