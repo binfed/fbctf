@@ -5,7 +5,7 @@ FBCTF 简中汉化，基于Facebook官方FBCTF平台源码（Ubuntu 16.04）进�
 # 截图
 ![](https://i.imgur.com/YNv6tcQ.png)
 
-![](https://i.imgur.com/kY8u3lG.png)
+![](https://i.imgur.com/ucigXw8.png)
 
 ![](https://i.imgur.com/sJdZXxr.png)
 
